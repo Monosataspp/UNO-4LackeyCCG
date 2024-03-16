@@ -1,1 +1,1 @@
-This is the plugin for LackeyCCG.
+This is the UNO plugin for LackeyCCG, still under construction.
