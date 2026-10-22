@@ -1,0 +1,58 @@
+<plugin>
+<pluginversion>2.0</pluginversion>
+
+<pluginname>UNO</pluginname>
+
+<globalstat><label>Points Pot</label><initialvalue>0</initialvalue></globalstat>	
+
+<playerstat><label>Points</label><initialvalue>0</initialvalue></playerstat>	
+
+<deckzone>
+	<label>Draw Pile</label>
+	<gamezonetoloadto>Draw Pile</gamezonetoloadto>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>2nd Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Draw Pile</label>
+	<isshared>yes</isshared>
+</gamezone>
+
+<gamezone>
+	<label>Discard Pile</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	<isshared>yes</isshared>
+</gamezone>
+
+<generalfunction><label>Draw</label><kind>TRANSFERCARD</kind><sourceowner>shared</sourceowner><sourcegamezone>Draw Pile</sourcegamezone><sourceposition>top</sourceposition><destinationgamezone>Hand</destinationgamezone><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Flip a Coin</label><kind>FLIPCOIN</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Roll D6</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Spawn Card</label><kind>SPAWNCARD</kind><includeasbutton>no</includeasbutton></generalfunction>
+
+<cardfunction><label>Turn Counter -1</label><kind>REMOVECOUNTERRED</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Turn Counter +1</label><kind>ADDCOUNTERRED</kind><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Rotate</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Flip Over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Add from Outside</label><kind>CLONE</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<definition><kind>REUSECARDIMAGES</kind></definition>	
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+<definition><kind>GRIDSIZE</kind><value>0.01</value>
+</definition>
+
+</plugin>

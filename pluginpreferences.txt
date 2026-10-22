@@ -1,0 +1,51 @@
+<pluginpreferences>
+
+<counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
+<counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
+<recentskins>default</recentskins>
+<recentskins>Desert</recentskins>
+<canned>PoP? (Pass or Play?)</canned>
+<canned>Pass.</canned>
+<canned>Proceed.</canned>
+<canned>Thinking.</canned>
+<canned>Attack!</canned>
+<canned>In response...</canned>
+<canned>End of turn...</canned>
+<canned>Done.</canned>
+<canned>You done?</canned>
+<canned>gg</canned>
+<canned>/rolld6</canned>
+<canned>/flip1</canned>
+<canned>/draw5</canned>
+<canned>/clear</canned>
+<canned>Yes.</canned>
+<canned>No.</canned>
+<canned>Your turn.</canned>
+<canned>Hi.</canned>
+<canned>Wow!</canned>
+<canned>Good game.</canned>
+<fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
+<fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
+<fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
+<fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind3pos0>times.ttf</fontkind3pos0>
+<fontkind3pos1>Lato-Reg.ttf</fontkind3pos1>
+<fontsize0>12</fontsize0>
+<fontsize1>11</fontsize1>
+<fontsize2>11</fontsize2>
+<fontsize3>20</fontsize3>
+<bindingmain11>CTRL+ALT+c</bindingmain11>
+<bindingmain19>ESCAPE</bindingmain19>
+<recentformat>-1</recentformat>
+<filterkeystroke>1</filterkeystroke>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
+<scalefactor>1.000000</scalefactor>
+<zoomfactor>1.000000</zoomfactor>
+<quickzoom>4.000000</quickzoom>
+<tilt>15.000000</tilt>
+<prevtilt>15.000000</prevtilt>
+<isdownloadallmissing>1</isdownloadallmissing>
+
+</pluginpreferences>
