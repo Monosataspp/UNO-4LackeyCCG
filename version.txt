@@ -1,0 +1,11 @@
+<version>
+
+<lastupdateYYMMDD>261022</lastupdateYYMMDD>
+
+<versionurl>http://magicplugin.normalitycomics.com/update/version.txt</versionurl>
+
+<updateurl>http://magicplugin.normalitycomics.com/update/updatelist.txt</updateurl>
+
+<message>Adding new cards...</message>
+
+</version>
