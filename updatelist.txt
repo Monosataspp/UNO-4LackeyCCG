@@ -2,3 +2,8 @@ UNO	10-22-2026
 
 plugins/UNO/plugininfo.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/plugininfo.txt	number
 plugins/UNO/sets/CardData.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/sets/CardData.txt	number
+plugins/UNO/version.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/version.txt	number
+
+CardGeneralURLs:
+
+https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/sets/setimages/general/

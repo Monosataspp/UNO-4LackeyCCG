@@ -2,9 +2,9 @@
 
 <lastupdateYYMMDD>261022</lastupdateYYMMDD>
 
-<versionurl>http://magicplugin.normalitycomics.com/update/version.txt</versionurl>
+<versionurl>https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/version.txt</versionurl>
 
-<updateurl>http://magicplugin.normalitycomics.com/update/updatelist.txt</updateurl>
+<updateurl>https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/updatelist.txt</updateurl>
 
 <message>Adding new cards...</message>
 
