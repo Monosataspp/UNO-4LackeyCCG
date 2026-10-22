@@ -1,0 +1,90 @@
+Name	Set	ImageFile	Card Type	Value	Effect
+Blue 0	Standard	Blue0.png	Number	Face Value	N/A
+Blue 1	Standard	Blue1.png	Number	Face Value	N/A
+Blue 2	Standard	Blue2.png	Number	Face Value	N/A
+Blue 3	Standard	Blue3.png	Number	Face Value	N/A
+Blue 4	Standard	Blue4.png	Number	Face Value	N/A
+Blue 5	Standard	Blue5.png	Number	Face Value	N/A
+Blue 6	Standard	Blue6.png	Number	Face Value	N/A
+Blue 7	Standard	Blue7.png	Number	Face Value	N/A
+Blue 8	Standard	Blue8.png	Number	Face Value	N/A
+Blue 9	Standard	Blue9.png	Number	Face Value	N/A
+Blue 69	Hot Death	Blue69.png	Number/Action	69	This card can be played on top of either 6 or 9. While this card is in your hand, you can play 6 on top of 9, and vice versa (reveal this card to do so).
+Blue Draw One	Express	BlueDraw1.png	Action	20	The next player must draw 1 card, and lose their turn.
+Blue Draw Two	Standard	BlueDraw2.png	Action	20	The next player must draw 2 cards, and lose their turn.
+Blue Draw Four	Show Em' No Mercy	BlueDraw4.png	Action	20	The next player must draw 4 cards, and lose their turn.
+Blue Draw Six	Unofficial	BlueDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
+Blue Draw Eight	Unofficial	BlueDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
+Blue Draw Ten	Unofficial	BlueDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Blue Reverse	Standard	BlueReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
+Blue Skip	Standard	BlueSkip.png	Action	20	The next player turn is skipped.
+Blue Skip All	Show Em' No Mercy	BlueSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+
+Green 0	Standard	Green0.png	Number	Face Value	N/A
+Green 1	Standard	Green1.png	Number	Face Value	N/A
+Green 2	Standard	Green2.png	Number	Face Value	N/A
+Green 3	Standard	Green3.png	Number	Face Value	N/A
+Green 4	Standard	Green4.png	Number	Face Value	N/A
+Green 5	Standard	Green5.png	Number	Face Value	N/A
+Green 6	Standard	Green6.png	Number	Face Value	N/A
+Green 7	Standard	Green7.png	Number	Face Value	N/A
+Green 8	Standard	Green8.png	Number	Face Value	N/A
+Green 9	Standard	Green9.png	Number	Face Value	N/A
+Green 69	Hot Death	Green69.png	Number/Action	69	This card can be played on top of either 6 or 9. While this card is in your hand, you can play 6 on top of 9, and vice versa (reveal this card to do so).
+Green Draw One	Express	GreenDraw1.png	Action	20	The next player must draw 1 card, and lose their turn.
+Green Draw Two	Standard	GreenDraw2.png	Action	20	The next player must draw 2 cards, and lose their turn.
+Green Draw Four	Show Em' No Mercy	GreenDraw4.png	Action	20	The next player must draw 4 cards, and lose their turn.
+Green Draw Six	Unofficial	GreenDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
+Green Draw Eight	Unofficial	GreenDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
+Green Draw Ten	Unofficial	GreenDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Green Reverse	Standard	GreenReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
+Green Skip	Standard	GreenSkip.png	Action	20	The next player turn is skipped.
+Green Skip All	Show Em' No Mercy	GreenSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+
+Red 0	Standard	Red0.png	Number	Face Value	N/A
+Red 1	Standard	Red1.png	Number	Face Value	N/A
+Red 2	Standard	Red2.png	Number	Face Value	N/A
+Red 3	Standard	Red3.png	Number	Face Value	N/A
+Red 4	Standard	Red4.png	Number	Face Value	N/A
+Red 5	Standard	Red5.png	Number	Face Value	N/A
+Red 6	Standard	Red6.png	Number	Face Value	N/A
+Red 7	Standard	Red7.png	Number	Face Value	N/A
+Red 8	Standard	Red8.png	Number	Face Value	N/A
+Red 9	Standard	Red9.png	Number	Face Value	N/A
+Red 69	Hot Death	Red69.png	Number/Action	69	This card can be played on top of either 6 or 9. While this card is in your hand, you can play 6 on top of 9, and vice versa (reveal this card to do so).
+Red Draw One	Express	RedDraw1.png	Action	20	The next player must draw 1 card, and lose their turn.
+Red Draw Two	Standard	RedDraw2.png	Action	20	The next player must draw 2 cards, and lose their turn.
+Red Draw Four	Show Em' No Mercy	RedDraw4.png	Action	20	The next player must draw 4 cards, and lose their turn.
+Red Draw Six	Unofficial	RedDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
+Red Draw Eight	Unofficial	RedDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
+Red Draw Ten	Unofficial	RedDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Red Reverse	Standard	RedReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
+Red Skip	Standard	RedSkip.png	Action	20	The next player turn is skipped.
+Red Skip All	Show Em' No Mercy	RedSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+
+Yellow 0	Standard	Yellow0.png	Number	Face Value	N/A
+Yellow 1	Standard	Yellow1.png	Number	Face Value	N/A
+Yellow 2	Standard	Yellow2.png	Number	Face Value	N/A
+Yellow 3	Standard	Yellow3.png	Number	Face Value	N/A
+Yellow 4	Standard	Yellow4.png	Number	Face Value	N/A
+Yellow 5	Standard	Yellow5.png	Number	Face Value	N/A
+Yellow 6	Standard	Yellow6.png	Number	Face Value	N/A
+Yellow 7	Standard	Yellow7.png	Number	Face Value	N/A
+Yellow 8	Standard	Yellow8.png	Number	Face Value	N/A
+Yellow 9	Standard	Yellow9.png	Number	Face Value	N/A
+Yellow 69	Hot Death	Yellow69.png	Number/Action	69	This card can be played on top of either 6 or 9. While this card is in your hand, you can play 6 on top of 9, and vice versa (reveal this card to do so).
+Yellow Draw One	Express	YellowDraw1.png	Action	20	The next player must draw 1 card, and lose their turn.
+Yellow Draw Two	Standard	YellowDraw2.png	Action	20	The next player must draw 2 cards, and lose their turn.
+Yellow Draw Four	Show Em' No Mercy	YellowDraw4.png	Action	20	The next player must draw 4 cards, and lose their turn.
+Yellow Draw Six	Unofficial	YellowDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
+Yellow Draw Eight	Unofficial	YellowDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
+Yellow Draw Ten	Unofficial	YellowDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Yellow Reverse	Standard	YellowReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
+Yellow Skip	Standard	YellowSkip.png	Action	20	The next player turn is skipped.
+Yellow Skip All	Show Em' No Mercy	YellowSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+
+Wild Card	Standard	WildCard.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card).
+Wild Reverse	All Wild!	WildReverse.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then reverse the direction of play.
+Wild Skip	All Wild!	WildSkip.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then skipped the next player turn.
+Wild Draw Four	Standard	WildDraw4.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 4 cards, and lose their turn.
+Wild Draw Two	All Wild!	WildDraw2.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 2 cards, and lose their turn.
