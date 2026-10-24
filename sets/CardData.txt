@@ -16,9 +16,13 @@ Blue Draw Four	Show Em' No Mercy	BlueDraw4.png	Action	20	The next player must dr
 Blue Draw Six	Unofficial	BlueDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
 Blue Draw Eight	Unofficial	BlueDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
 Blue Draw Ten	Unofficial	BlueDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Blue All Draw Two	DS	BlueAllDraw2.png	Action	20	All other players must draw 2 cards, no one loses their turn.
+Blue Leader Draw Two	DS	BlueLeaderDraw2.png	Action	20	The player with the least amount of cards in their hand must draw 2 cards (if there's a tie, those tie players draw 2 cards), he/she doesn't lose their turn.
 Blue Reverse	Standard	BlueReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
 Blue Skip	Standard	BlueSkip.png	Action	20	The next player turn is skipped.
 Blue Skip All	Show Em' No Mercy	BlueSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+Blue Discard All	Attack	BlueDiscardAll.png	Action	20/30	Play this card along with all other blue cards in your hand (with this card on top of them). You can also play this card individually.
+Blue Discard Two	Triple Play	BlueDiscard2.png	Action	20/30	Play this card along with 1 other blue card in your hand on top of this card. You can also play this card individually.
 
 Green 0	Standard	Green0.png	Number	Face Value	N/A
 Green 1	Standard	Green1.png	Number	Face Value	N/A
@@ -37,9 +41,13 @@ Green Draw Four	Show Em' No Mercy	GreenDraw4.png	Action	20	The next player must 
 Green Draw Six	Unofficial	GreenDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
 Green Draw Eight	Unofficial	GreenDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
 Green Draw Ten	Unofficial	GreenDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Green All Draw Two	DS	GreenAllDraw2.png	Action	20	All other players must draw 2 cards, no one loses their turn.
+Green Leader Draw Two	DS	GreenLeaderDraw2.png	Action	20	The player with the least amount of cards in their hand must draw 2 cards (if there's a tie, those tie players draw 2 cards), he/she doesn't lose their turn.
 Green Reverse	Standard	GreenReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
 Green Skip	Standard	GreenSkip.png	Action	20	The next player turn is skipped.
 Green Skip All	Show Em' No Mercy	GreenSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+Green Discard All	Attack	GreenDiscardAll.png	Action	20/30	Play this card along with all other green cards in your hand (with this card on top of them). You can also play this card individually.
+Green Discard Two	Triple Play	GreenDiscard2.png	Action	20/30	Play this card along with 1 other green card in your hand on top of this card. You can also play this card individually.
 
 Red 0	Standard	Red0.png	Number	Face Value	N/A
 Red 1	Standard	Red1.png	Number	Face Value	N/A
@@ -58,9 +66,13 @@ Red Draw Four	Show Em' No Mercy	RedDraw4.png	Action	20	The next player must draw
 Red Draw Six	Unofficial	RedDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
 Red Draw Eight	Unofficial	RedDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
 Red Draw Ten	Unofficial	RedDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Red All Draw Two	DS	RedAllDraw2.png	Action	20	All other players must draw 2 cards, no one loses their turn.
+Red Leader Draw Two	DS	RedLeaderDraw2.png	Action	20	The player with the least amount of cards in their hand must draw 2 cards (if there's a tie, those tie players draw 2 cards), he/she doesn't lose their turn.
 Red Reverse	Standard	RedReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
 Red Skip	Standard	RedSkip.png	Action	20	The next player turn is skipped.
 Red Skip All	Show Em' No Mercy	RedSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+Red Discard All	Attack	RedDiscardAll.png	Action	20/30	Play this card along with all other red cards in your hand (with this card on top of them). You can also play this card individually.
+Red Discard Two	Triple Play	RedDiscard2.png	Action	20/30	Play this card along with 1 other red card in your hand on top of this card. You can also play this card individually.
 
 Yellow 0	Standard	Yellow0.png	Number	Face Value	N/A
 Yellow 1	Standard	Yellow1.png	Number	Face Value	N/A
@@ -79,12 +91,20 @@ Yellow Draw Four	Show Em' No Mercy	YellowDraw4.png	Action	20	The next player mus
 Yellow Draw Six	Unofficial	YellowDraw6.png	Action	20	The next player must draw 6 cards, and lose their turn.
 Yellow Draw Eight	Unofficial	YellowDraw8.png	Action	20	The next player must draw 8 cards, and lose their turn.
 Yellow Draw Ten	Unofficial	YellowDraw10.png	Action	20	The next player must draw 10 cards, and lose their turn.
+Yellow All Draw Two	DS	YellowAllDraw2.png	Action	20	All other players must draw 2 cards, no one loses their turn.
+Yellow Leader Draw Two	DS	YellowLeaderDraw2.png	Action	20	The player with the least amount of cards in their hand must draw 2 cards (if there's a tie, those tie players draw 2 cards), he/she doesn't lose their turn.
 Yellow Reverse	Standard	YellowReverse.png	Action	20	Reverse the direction of play (clockwise becomes counterclockwise, and vice versa).
 Yellow Skip	Standard	YellowSkip.png	Action	20	The next player turn is skipped.
 Yellow Skip All	Show Em' No Mercy	YellowSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
+Yellow Discard All	Attack	YellowDiscardAll.png	Action	20/30	Play this card along with all other yellow cards in your hand (with this card on top of them). You can also play this card individually.
+Yellow Discard Two	Triple Play	YellowDiscard2.png	Action	20/30	Play this card along with 1 other yellow card in your hand on top of this card. You can also play this card individually.
 
 Wild Card	Standard	WildCard.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card).
-Wild Reverse	All Wild!	WildReverse.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then reverse the direction of play.
-Wild Skip	All Wild!	WildSkip.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then skipped the next player turn.
-Wild Draw Four	Standard	WildDraw4.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 4 cards, and lose their turn.
+Wild Reverse	DS/All Wild!	WildReverse.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then reverse the direction of play.
+Wild Skip	DS/All Wild!	WildSkip.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then skipped the next player turn.
 Wild Draw Two	All Wild!	WildDraw2.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 2 cards, and lose their turn.
+Wild Draw Four	Standard	WildDraw4.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 4 cards, and lose their turn.
+Wild Draw Six	Show Em' No Mercy	WildDraw6.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 6 cards, and lose their turn.
+Wild Draw Eight	Cobs Game Changers	WildDraw8.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 8 cards, and lose their turn.
+Wild Draw Ten	Show Em' No Mercy	WildDraw10.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 10 cards, and lose their turn.
+Wild Symbol	DS	WildSymbol.png	Wild	50	Declared 1 number or symbol (excluding any Wild Card). Players can only play a card on top of this card with the same number or symbol that you declared (or a Wild Card).
