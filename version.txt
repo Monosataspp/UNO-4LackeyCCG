@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>261022</lastupdateYYMMDD>
+<lastupdateYYMMDD>261024</lastupdateYYMMDD>
 
 <versionurl>https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/version.txt</versionurl>
 
