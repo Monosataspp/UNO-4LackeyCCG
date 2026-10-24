@@ -1,4 +1,4 @@
-UNO	10-22-26
+UNO	10-24-26
 plugins/UNO/plugininfo.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/plugininfo.txt	239049
 plugins/UNO/sets/CardData.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/sets/CardData.txt	657116
 plugins/UNO/version.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/version.txt	30924
