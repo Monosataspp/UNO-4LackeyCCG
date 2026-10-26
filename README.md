@@ -6,5 +6,5 @@
 * Variety of different UNO Decks (such as Express and All Wild!).
 * Lots of different Action Cards from many sources (such as Reverse Skip and All Draw Two).
 # Credits
-<br>UNO is owned by Mattel (since 1992), this plugin is for entertainment purpose only.
+<br>UNO is owned by Mattel (since 1992), this plugin is created for entertainment purposes only.
 <br>NOT FOR SALE.
