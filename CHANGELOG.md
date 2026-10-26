@@ -1,5 +1,6 @@
 # Changelog
-*NOTE: Excluding card back and spawned card.*
+> [!NOTE]
+> Excluding card back and spawned card, UNO Flip is currently impossible to implement.
 ## V1.1 - 2026-10-24
 * **20 Cards added**
   * All Draw Two.
