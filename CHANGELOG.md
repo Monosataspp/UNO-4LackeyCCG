@@ -2,6 +2,7 @@
 > [!NOTE]
 > Excluding card back and spawned card, UNO Flip is currently impossible to implement.
 ## V1.1 - 2026-10-24
+### Added:
 * **20 Cards added**
   * All Draw Two.
   * Leader Draw Two.
@@ -9,6 +10,7 @@
   * Color Discard Two
   * Wild Cards (Wild Draw Six, Wild Draw Eight, Wild Draw Ten, and Wild Symbol).
 ## V1.0 - 2026-10-22
+### Added:
 * **3 Decks added**
   * Standard Deck (with and without 2nd copies of 0).
   * Express Deck.
