@@ -1,6 +1,6 @@
-UNO	10-28-26
-plugins/UNO/plugininfo.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/plugininfo.txt	239050
-plugins/UNO/sets/CardData.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/sets/CardData.txt	1283190
-plugins/UNO/version.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/version.txt	30930
+UNO	11-08-26
+plugins/UNO/plugininfo.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/plugininfo.txt	239051
+plugins/UNO/sets/CardData.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/sets/CardData.txt	1959135
+plugins/UNO/version.txt	https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/version.txt	30929
 CardGeneralURLs:
 https://raw.githubusercontent.com/Monosataspp/UNO-4LackeyCCG/refs/heads/main/sets/setimages/general/
