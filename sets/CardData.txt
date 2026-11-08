@@ -28,6 +28,14 @@ Blue Skip Draw Two	Undercover	BlueSkipDraw2.png	Action	40	The next player turn i
 Blue Skip All	Show Em' No Mercy	BlueSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
 Blue Discard All	Attack	BlueDiscardAll.png	Action	20/30	Play this card along with all other blue cards in your hand (with this card on top of them). You can also play this card individually.
 Blue Discard Two	Triple Play	BlueDiscard2.png	Action	20/30	Play this card along with 1 other blue card in your hand on top of this card. You can also play this card individually.
+Blue Sleep	Undercover	BlueSleep.png	Action	20	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. That player loses their turn equal to the number card played (or 1 turn if it is an Action Card).
+Blue Highland Two-Step	Undercover	BlueHighland.png	Action	60	Target 2 players (including yourself). Force targeted players to swap hands with each other.
+Blue Lucky Croc Tooth	Undercover	BlueLuckyCroc.png	Action	40	Play this card along with 1 card in your hand (with this card on top). You will be protected from the draw effect (and send them right back to the player who plays it) for a number of turns equal to the number card played (or 1 turn if it is an Action Card).
+Blue Toe Hold	Undercover	BlueToe.png	Action	40	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. Randomly "Locked" up to 3 cards in their hand for a number of turn equal to the number card played (or 1 turn if it is an Action Card). They may not play any Locked cards.
+Blue Shooting Star	Undercover	BlueShooting.png	Action	50	Play up to 4 cards in a single color on top of this card. Any Action Card effect played this way is negated.
+Blue Clone	Undercover	BlueClone.png	Action	30	Target a card in your hand, add a copy of that card into your hand.
+Blue Tsunami	Undercover	BlueTsunami.png	Action	50	Play this card along with 1 number card in your hand (with this card on top), then target 1 of your opponent's. That player must randomly take a number of card from other players equal to the number card played.
+Blue Switcheroo	Undercover	BlueSwitcheroo.png	Action	30	Target 2 of your opponent's, force them to switch seats with each other.
 
 Green 0	Standard	Green0.png	Number	Face Value	N/A
 Green 1	Standard	Green1.png	Number	Face Value	N/A
@@ -58,6 +66,14 @@ Green Skip Draw Two	Undercover	GreenSkipDraw2.png	Action	40	The next player turn
 Green Skip All	Show Em' No Mercy	GreenSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
 Green Discard All	Attack	GreenDiscardAll.png	Action	20/30	Play this card along with all other green cards in your hand (with this card on top of them). You can also play this card individually.
 Green Discard Two	Triple Play	GreenDiscard2.png	Action	20/30	Play this card along with 1 other green card in your hand on top of this card. You can also play this card individually.
+Green Sleep	Undercover	GreenSleep.png	Action	20	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. That player loses their turn equal to the number card played (or 1 turn if it is an Action Card).
+Green Highland Two-Step	Undercover	GreenHighland.png	Action	60	Target 2 players (including yourself). Force targeted players to swap hands with each other.
+Green Lucky Croc Tooth	Undercover	GreenLuckyCroc.png	Action	40	Play this card along with 1 card in your hand (with this card on top). You will be protected from the draw effect (and send them right back to the player who plays it) for a number of turns equal to the number card played (or 1 turn if it is an Action Card).
+Green Toe Hold	Undercover	GreenToe.png	Action	40	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. Randomly "Locked" up to 3 cards in their hand for a number of turn equal to the number card played (or 1 turn if it is an Action Card). They may not play any Locked cards.
+Green Shooting Star	Undercover	GreenShooting.png	Action	50	Play up to 4 cards in a single color on top of this card. Any Action Card effect played this way is negated.
+Green Clone	Undercover	GreenClone.png	Action	30	Target a card in your hand, add a copy of that card into your hand.
+Green Tsunami	Undercover	GreenTsunami.png	Action	50	Play this card along with 1 number card in your hand (with this card on top), then target 1 of your opponent's. That player must randomly take a number of card from other players equal to the number card played.
+Green Switcheroo	Undercover	GreenSwitcheroo.png	Action	30	Target 2 of your opponent's, force them to switch seats with each other.
 
 Red 0	Standard	Red0.png	Number	Face Value	N/A
 Red 1	Standard	Red1.png	Number	Face Value	N/A
@@ -88,6 +104,14 @@ Red Skip Draw Two	Undercover	RedSkipDraw2.png	Action	40	The next player turn is 
 Red Skip All	Show Em' No Mercy	RedSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
 Red Discard All	Attack	RedDiscardAll.png	Action	20/30	Play this card along with all other red cards in your hand (with this card on top of them). You can also play this card individually.
 Red Discard Two	Triple Play	RedDiscard2.png	Action	20/30	Play this card along with 1 other red card in your hand on top of this card. You can also play this card individually.
+Red Sleep	Undercover	RedSleep.png	Action	20	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. That player loses their turn equal to the number card played (or 1 turn if it is an Action Card).
+Red Highland Two-Step	Undercover	RedHighland.png	Action	60	Target 2 players (including yourself). Force targeted players to swap hands with each other.
+Red Lucky Croc Tooth	Undercover	RedLuckyCroc.png	Action	40	Play this card along with 1 card in your hand (with this card on top). You will be protected from the draw effect (and send them right back to the player who plays it) for a number of turns equal to the number card played (or 1 turn if it is an Action Card).
+Red Toe Hold	Undercover	RedToe.png	Action	40	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. Randomly "Locked" up to 3 cards in their hand for a number of turn equal to the number card played (or 1 turn if it is an Action Card). They may not play any Locked cards.
+Red Shooting Star	Undercover	RedShooting.png	Action	50	Play up to 4 cards in a single color on top of this card. Any Action Card effect played this way is negated.
+Red Clone	Undercover	RedClone.png	Action	30	Target a card in your hand, add a copy of that card into your hand.
+Red Tsunami	Undercover	RedTsunami.png	Action	50	Play this card along with 1 number card in your hand (with this card on top), then target 1 of your opponent's. That player must randomly take a number of card from other players equal to the number card played.
+Red Switcheroo	Undercover	RedSwitcheroo.png	Action	30	Target 2 of your opponent's, force them to switch seats with each other.
 
 Yellow 0	Standard	Yellow0.png	Number	Face Value	N/A
 Yellow 1	Standard	Yellow1.png	Number	Face Value	N/A
@@ -118,6 +142,14 @@ Yellow Skip Draw Two	Undercover	YellowSkipDraw2.png	Action	40	The next player tu
 Yellow Skip All	Show Em' No Mercy	YellowSkipAll.png	Action	20	Skipped every player's turn (except you), giving you an extra turn.
 Yellow Discard All	Attack	YellowDiscardAll.png	Action	20/30	Play this card along with all other yellow cards in your hand (with this card on top of them). You can also play this card individually.
 Yellow Discard Two	Triple Play	YellowDiscard2.png	Action	20/30	Play this card along with 1 other yellow card in your hand on top of this card. You can also play this card individually.
+Yellow Sleep	Undercover	YellowSleep.png	Action	20	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. That player loses their turn equal to the number card played (or 1 turn if it is an Action Card).
+Yellow Highland Two-Step	Undercover	YellowHighland.png	Action	60	Target 2 players (including yourself). Force targeted players to swap hands with each other.
+Yellow Lucky Croc Tooth	Undercover	YellowLuckyCroc.png	Action	40	Play this card along with 1 card in your hand (with this card on top). You will be protected from the draw effect (and send them right back to the player who plays it) for a number of turns equal to the number card played (or 1 turn if it is an Action Card).
+Yellow Toe Hold	Undercover	YellowToe.png	Action	40	Play this card along with 1 card in your hand (with this card on top), then target 1 of your opponent's. Randomly "Locked" up to 3 cards in their hand for a number of turn equal to the number card played (or 1 turn if it is an Action Card). They may not play any Locked cards.
+Yellow Shooting Star	Undercover	YellowShooting.png	Action	50	Play up to 4 cards in a single color on top of this card. Any Action Card effect played this way is negated.
+Yellow Clone	Undercover	YellowClone.png	Action	30	Target a card in your hand, add a copy of that card into your hand.
+Yellow Tsunami	Undercover	YellowTsunami.png	Action	50	Play this card along with 1 number card in your hand (with this card on top), then target 1 of your opponent's. That player must randomly take a number of card from other players equal to the number card played.
+Yellow Switcheroo	Undercover	YellowSwitcheroo.png	Action	30	Target 2 of your opponent's, force them to switch seats with each other.
 
 Wild Card	Standard	WildCard.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card).
 Wild Reverse	DS/All Wild!	WildReverse.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then reverse the direction of play.
@@ -128,6 +160,9 @@ Wild Draw Six	Show Em' No Mercy	WildDraw6.png	Wild	50	When play this card, you c
 Wild Draw Eight	Cobs Game Changers	WildDraw8.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 8 cards, and lose their turn.
 Wild Draw Ten	Show Em' No Mercy	WildDraw10.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card). The next player must draw 10 cards, and lose their turn.
 Wild Symbol	DS	WildSymbol.png	Wild	50	Declared 1 number or symbol (excluding any Wild Card). Players can only play a card on top of this card with the same number or symbol that you declared (or a Wild Card).
-Wild Discard All	Show Em' No Mercy Expansion Pack	WildDiscardAll.png	Wild	50	Play this card along with color cards of your choice in your hand (with this card on top of them). Then you choose the color that resumes play. You can also play this card individually.
+Wild Discard All	Show Em' No Mercy Expansion Pack	WildDiscardAll.png	Wild	50	Play this card along with any number of cards in a single color of your choice in your hand (with this card on top of them). Then you choose the color that resumes play. You can also play this card individually.
+Wild Skip Two	All Wild!	WildSkipTwo.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then the next two players lose their turns.
+Wild Redecorate	Undercover	WildRedecorate.png	Wild	70	When play this card, you can choose the color that continues play (including the color below this card), then all the non-Action Cards in your hand become that color.
+Wild Double Cross	Undercover	WildDoubleCross.png	Wild	50	When play this card, you can choose the color that continues play (including the color below this card), then target up to 2 cards in your hand to become that color.
 
 Colorblind Guide	Non-Game	5N.png	Non-Game	N/A	Special symbols have been added to each card to help identify the color on that card.
